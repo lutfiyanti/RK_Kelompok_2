@@ -1,0 +1,34 @@
+Notulensi Rapat 2
+
+Aplikasi :
+Wattpad
+
+Role : 
+User -> Membaca cerita, menulis cerita, like comment
+Manager -> 
+Administrator -> Editor Choice, Iklan, notifikasi dr wattpad, Faq, Promo, Gift
+Manager : Adin, Siraj, Maya
+User : Meila, 
+
+Pertanyaan Fungsional: 
+User : 
+1.	Dengan adanya aplikasi berbagi cerita (wattpad) apakah manfaat yang anda harapkan?
+2.	Menurut anda apakah pengaturan profil user dibutuhkan? Jika iya apa saja?
+3.	Apabila anda ingin membuat dan mempublish cerita fitur apa saja yang anda butuhkan?
+4.	Keuntungan apa yang ingin anda dapatkan (uang, apresiasi, dll) sebagai user pembuat cerita?
+5.	Apabila anda ingin membaca cerita fitur apa saja yang anda butuhkan untuk menunjang kenyamanan membaca?
+6.	Untuk menunjang interaksi antara user pembuat dan pembaca cerita fitur apa saja yang dibutuhkan?
+7.	Apa yang membuat anda tertarik menggunakan aplikasi ini? Min 1
+8.	Apabila terdapat akun premium, metode pembayaran apa saja yang anda inginkan?
+Manager :
+1.	Apa manfaat yang anda harapkan dari aplikasi ini?
+2.	Fitur apa yang ingin anda berikan untuk menarik minat pengguna?
+3.	Sebagai manager, anda ingin mendapatkan profit dari mana saja? Sebutkan!
+4.	Bagaimana cara anda untuk menarik dan mempertahankan minat user pembuat cerita? (kasih duit/dll)
+5.	Sistem seperti apa yang anda inginkan untuk memberikan insentif kepada user pembuat cerita?  
+6.	Fitur apa saja yang ingin ditawarkan dalam fitur premium?
+7.	Metode pembayaran apa yang anda inginkan?
+8.	Sebagai manager, apakah anda butuh fitur untuk memantau perkembangan aplikasi? Fitur apa saja yang dibutuhkan?
+Administrator :
+1.	Fitur apa saja yang menurut anda dibutuhkan?
+

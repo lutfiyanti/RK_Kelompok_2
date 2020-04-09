@@ -1,0 +1,37 @@
+Notulensi Rapat 1 
+
+1. Menentukan Kandidat Jenis Sistem Informasi
+	-Zalora (Online Shop Fashion)
+	-Wattpad (Platform membaca dan menulis cerita)
+	-Netflix (Platform menonton film)
+
+2. Menganalisa plus minus aplikasi
+	-Zalora 
+	Plus : - Aplikasi simpel
+		- Salah satu anggota tim pernah mencoba
+
+	Minus : - Client sulit mencoba coba aplikasi 
+		- Sulit jika ada sistem bayarnya
+		- Mirip kelompok lain online shop juga
+
+	-Wattpad 
+	Plus : - Aplikasi mudah untuk dicoba coba karena gratis 
+		- Aplikasi masih unik
+	Minus : -Aplikasi banyak fungsionalitasnya
+
+	-Netflix
+	Plus : - Belum ada yang ambil aplikasi yg mirip di kelompok lain
+		- Calon user susah nyobanya soalnya berbayar
+	Minus : -Berbayar
+
+3. Aplikasi yang digunakan akhirnya adalah Wattpad
+
+4. Garis Besar  Aplikasi Wattpad 
+	- User bisa membaca dan menulis cerita 
+	- Ada akun premium yang bebas ads, dapat darkmode, dan dapat bonus kalo topup poin
+	- Ada beberapa cerita yang memang butuh koin untuk membuka chapter tertentu. Tapi masih dikit
+5. Jenis client siapa saja?
+	- User Pengguna
+	- User Administrator
+	- Manager
+	

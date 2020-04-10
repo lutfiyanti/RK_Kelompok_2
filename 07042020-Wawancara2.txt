@@ -37,4 +37,3 @@ Hasil yang didapatkan setelah melakukan wawancara :
      - Mencatat berapa banyak penulis yang menulis hari itu
      - Mencatat berapa banyak buku yang dibaca oleh pembaca hari itu
      - Membaca berapa banyak penulis yang bukunya dibaca oleh pembaca hari itu
-

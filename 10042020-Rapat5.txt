@@ -1,0 +1,75 @@
+List Kebutuhan :
+
+Kebutuhan Bisnis : Memberikan platform untuk pembaca dan penulis untuk berinteraksi dan berbagi cerita
+Kebutuhan Pengguna :
+1. Pengguna dapat mendaftarkan akun baru
+   Kebutuhan Fungsional :
+   - Sistem memungkinkan penguna mendaftarkan akun baru dengan memasukkan beberapa data pengguna.
+   Kebutuhan Non-Fungsional :
+   - Operasional (berjalan di semua browser)
+2. Pengguna yang telah terdaftar dapat melihat, mengubah, atau menghapus data akun pengguna
+   Kebutuhan Fungsional :
+   - Sistem memungkinkan pengguna yang telah mempunyai akun dapat mengedit data dan menghapus akunnya.
+   - Sistem dapat menampilkan cerita yang telah dibuat oleh pengguna.
+   - Sistem dapat menampilkan riwayat daftar cerita yang telah dibaca pengguna.
+   - Sistem dapat menampilkan buku yang disimpan pengguna di perpustakaan.
+   - Sistem memungkinkan pengguna yang memiliki akun untuk mengedit akun yang mengikuti dan diikuti oleh pengguna.
+   - Sistem memungkinkan melihat jumlah koin yang dimiliki pengguna.
+   Kebutuhan Non-Fungsional :
+   - Operasional, keamanan (diakses sesuai hak akses)
+3. Pengguna dapat menulis cerita
+   Kebutuhan Fungsional :
+   - Sistem memungkinkan pengguna untuk menulis cerita melalui sistem.
+   - Sistem memungkinkan pengguna mengedit tulisannya dalam word formating.
+   - Sistem memungkinkan pengguna untuk menyimpan terlebih dahulu  cerita yang ditulis sebelum dipublish (draft).
+   - Sistem memungkinkan pengguna untuk memasukkan kategori cerita.
+   - Sistem dapat memasukkan gambar dan video dalam cerita.
+   - Sistem memungkinkan pengguna untuk mempublish cerita.
+   - Sistem memungkinkan pengguna untuk meminta akses penggunaan kata yang mengandung pornografi dan kata tidak pantas
+   Kebutuhan Non-Fungsional :
+   - Operasional, efisiensi (penyimpanan data), keamanan(1 akun, 1 pengguna)
+4. Pengguna dapat membaca cerita
+   Kebutuhan Fungsional :
+   - Sistem memungkinkan pengguna untuk membaca cerita melalui sistem.
+   - Sistem memungkinkan pengguna memilih kategori cerita.
+   - Sistem memungkinkan pengguna untuk memilih cerita berdasarkan penulis yang diinginkan.
+   - Sistem memungkinkan pengguna untuk memasukan cerita yang dibaca ke perpustakaan.
+   Kebutuhan Non-Fungsional :
+   - Operasional, efisiensi (penyimpanan data), keamanan (sesuai hak akses)
+5. Pengguna dapat berinteraksi sebagai pembaca atau penulis
+   Kebutuhan Fungsional :
+   - Sistem memungkinkan pengguna (pembaca) memberikan komentar di suatu cerita.
+   - Sistem memungkinkan pengguna (penulis) memberikan balasan terhadap komentar yang telah diberikan oleh penulis di ceritanya.
+   - Sistem memungkinkan pengguna untuk dapat mengupload suatu pesan di timeline.
+   - Sistem memungkinkan pengguna untuk dapat memberikan komentar di suatu pesan yang telah di upload di timeline oleh pengguna lain.
+   - Sistem memungkinkan pengguna (pembaca) untuk memberikan vote di suatu cerita.
+   - Sistem memungkinkan pengguna untuk mengirimkan direct message ke sesama pengguna.
+   Kebutuhan Non-Fungsional :
+   - Operasional, efisiensi (penyimpanan data), keamanan ( 1 akun untuk  1 pnegguna)
+6. Pengguna dapat beralih akun premium
+   Kebutuhan Fungsional :
+   - Sistem memungkinkan pengguna untuk mendaftar menjadi akun premium
+   - Sistem memungkinkan pengguna untuk melakukan pembayaran 
+   - Sistem memungkinkan adanya verifikasi pembayaran akun premium
+   Kebutuhan Non-Fungsional :
+   - Operasional, keamanan pembayaran 
+7. Pengguna dapat menggunakan fitur premium
+   Kebutuhan Fungsional :
+   - Sistem memungkinkan pengguna premium membatasi cerita yang dia buat
+   - Sistem memungkinkan pengguna untuk membaca cerita yang dibatasi
+   - Sistem memungkinkan pengguna terbebas dari iklan yang ada
+   - Sistem memungkinkan pengguna untuk menyimpan bacaan secara offline
+   Kebutuhan Non-Fungsional :
+   - Operasional, keamanan ( 1 akun, 1 pengguna)
+8. Pengguna dapat melakukan pemantauan perkembangan sistem
+   Kebutuhan Fungsional :
+   - Sistem memungkinkan pengguna untuk melakukan verifikasi akun yag baru melakukan registrasi.
+   - Sistem memungkinkan pengguna untuk melihat log history pengguna pembaca atau penulis.
+   - Sistem memungkinkan pengguna untuk melihat berapa banyak akun yang terdaftar hari itu.
+   - Sistem memungkinkan pengguna untuk melihat berapa banyak akun yang log in hari itu.
+   - Sistem memungkinkan pengguna untuk melihat berapa banyak penulis yang menulis hari itu.
+   - Sistem memungkinkan pengguna untuk membaca berapa banyak penulis yang bukunya dibaca oleh pembaca hari itu.
+   - Sistem memungkinkan pengguna untuk melihat berapa banyak penulis yang menulis hari itu.
+   - Sistem memungkinkan pengguna untuk melihat berapa banyak penulis yang bukunya dibaca oleh pembaca hari itu.
+   Kebutuhan Non-Fungsional :
+   - Operasional, keamanan ( 1 akun, 1 pengguna)

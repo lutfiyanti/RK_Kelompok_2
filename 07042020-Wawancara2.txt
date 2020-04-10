@@ -1,0 +1,40 @@
+List Pertanyaan role Administrator :
+1. Fitur apa saja yang anda butuhkan dalam sistem informasi ini?
+2. Cara apa yang anda gunakan supaya pengguna tertarik untuk menggunakan sistem informasi ini?
+3. Melalui sarana apa saja yang menurut anda bisa digunakan untuk menunjang pendapatan profit?
+4. Apabila diadakan akun premium untuk pengguna, fitur apa saja yang membedakannya dengan yang bukan premium?
+5. Metode pembayaran yang seperti apa yang akan anda gunakan?
+6. Apakah diperlukan fitur yang digunakan untuk memantau perkembangan aplikasi? kalau iya, bisa disebutkan fitur apa saja yang diperlukan?
+
+Hasil yang didapatkan setelah melakukan wawancara :
+1. Fitur-fitur yang dibutuhkan dalam sistem informasi ini :
+     - Memanajemen akun pengguna  yaitu menghapus akun 
+     - Memantau perkembangan sistem ini 
+     - Log history apa saja yang dilakukan oleh user
+2. Cara-cara yang digunakan untuk menarik pengguna :
+     - Setelah melakukan registrasi, user dapat memilih kategori yang diinginkan untuk dibaca maupun di tulis
+     - Kategori yang telah dipilih sebelumnya akan muncul di beranda user
+     - Memfilter cerita yang ada di beranda supaya sesuai dengan apa yang telah dibaca sebelumnya
+3. Sarana yang dapat digunakan untuk menunjang pendapatan profit :
+     - Iklan
+     - Akun premium untuk pengguna
+4. Fitur yang membedakan akun premiun dengan yang bukan :
+     - Penghapusan iklan untuk akun premium
+     - Mendapatkan bonus atau cashback bagi pengguna premium
+     - Dapat memilih tema
+5. Metode pembayaran yang ingin digunakan :
+     - Kartu Kredit
+     - Transfer Bank
+     - Virtual Account
+     - OVO
+     - Gopay
+     - Dana
+     - LinkAja
+6. Fitur yang digunakan untuk memantau perkembangan aplikasi :
+     - Log history pengguna pembaca atau penulis
+     - Mencatat berapa banyak akun yang terdaftar hari itu
+     - Mencatat berapa banyak akun yang log in hari itu
+     - Mencatat berapa banyak penulis yang menulis hari itu
+     - Mencatat berapa banyak buku yang dibaca oleh pembaca hari itu
+     - Membaca berapa banyak penulis yang bukunya dibaca oleh pembaca hari itu
+

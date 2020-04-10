@@ -1,0 +1,49 @@
+List Pertanyaan :
+
+a. Data apa saja yang diperlukan untuk registrasi akun ?
+b. perlukah fitur mengedit tulisan ? 
+c. perlukah fitur untuk penulis membuat draft tulisan sebelum dipublish ?
+d. perlukah mengkategorikan tulisan dalam beberapa kategori ?
+e. perlukah fitur bagi pembaca untuk menandai buku yang ingin dibaca ?
+f. perlukah fitur supaya pembaca dan penulis dapat berinteraksi ?
+g. perlukah pembatasan konten yang mengandung pornografi, SARA, dsb ?
+h. perlukah fitur bagi pembaca untuk melihat daftar bacaan yang telah dibacanya ?
+i. perlukah adanya bacaan yang berbayar supaya mendapatkan profit ?
+j. metode pembayaran seperti apa yang diinginkan ?
+
+Role responden :
+Manager : 2 orang
+Administrator : 3 orang 
+End-user : 3 orang
+
+Hasil yang di dapat dari kuesioner
+1. Data yang diperlukan untuk registrasi akun, antara lain : 
+     - nama
+     - username
+     - email
+     - password
+     - no HP
+     - tanggal lahir
+     - jenis kelamin
+     - negara
+     - pekerjaan
+     - foto profil
+2. Diperlukannya fitur untuk mengedit tulisan 
+3. Diperlukannya fitur draft untuk penulis sebelum tulisan tersebut di publish
+4. Diperlukannya pengkategorian tulisan
+5. Pembaca memerlukan fitur penanda untuk buku yang ingin dibaca
+6. Fitur untuk berinteraksi antara pembaca dan penulis tidak diharuskan ada
+7. Diperlukannya pembatasan konten yang mengandung pornografi, SAR, dsb
+8. Diperlukannya fitur melihat daftar bacaan yang telah dibaca oleh pembaca
+9. Dibutuhkannya bacaan berbayar untuk mendukung pendapatan profit
+10. Beberapa metode pembayaran yang diinginkan oleh responden :
+     - Transfer ATM
+     - Transfer Bank
+     - Credit Card
+     - OVO
+     - Gopay
+     - Dana
+     - Paypal
+     - Kredit Jenius
+     - Tagihan Google Play
+

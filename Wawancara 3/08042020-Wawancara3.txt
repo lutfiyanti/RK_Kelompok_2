@@ -1,0 +1,30 @@
+Wawancara dengan kelompok 10
+
+
+Manager (Muhammad Jaya Siraj - 05111740000088) :
+	Dari aplikasi ini harapannya dapat menemukan orang-orang yang tertarik dalam menulis dan membaca. Bagi yang ingin menulis cerita dapat melalui aplikasi ini, begitu pula dengan orang yang membaca. Dari kegiatan ini saya juga mengharapkan keuntungan dari menjajahkan aplikasi ini. 
+	Untuk membuat pengguna tertarik yang ada fitur mengetahui banyaknya pembaca dan rating untuk cerita. Karena dengan mengetahui ini dapat membuat pengguna mengetahui yang mana yang recomended dan dapat digunakan sebagai langkah awal untuk pengguna baru menggunakan aplikasi. 
+	Profit dapat didapat dari fitur premium. Untuk penulis fitur premium bisa di highlight untuk hasil tulisannya. Untuk pembaca beberapa cerita hanya dapat dibaca dengan akun premium. 
+	Untuk membuat penulis tetap aktif untuk menulis saya akan menjanjikan insentif untuk mereka. Bisa dikatakan cerita mereka cerita premium. Dengan mereka menulis cerita premium ini maka mereka akan mendapatkan beberapa persen dari hasil itu. Sehingga penulis tetap ingin menulis.
+	Pembuat cerita yang sudah banyak memiliki view diceritanya dan follower yang banyak maka cerita yang mereka buat bisa dibuat menjadi premium. Dari situ pembaca harus membayar dulu untuk membaca bacaan tersebut. Pembayaran itu akan diberikan ke pembuat cerita dan sebagian untuk perusahaan.
+	Pembaca yang menggunakan fitur premium dapat membaca semua bacaan yang premium. Lalu pembaca premium juga dapat menyimpan cerita yang ingin mereka sehingga tidak harus online. Mereka juga dapat penanda bahwa mereka adalah pembaca premium. Untuk pembuat cerita mendapatkan status sebagai pembuat cerita premium. Sehingga dengan status ini kualitas cerita mereka dapat terlihat lebih terjamin. Untuk cerita yang mereka post, mereka juga dapat penghasilan dari itu.
+	Metode pembayaran yang saya inginkan kalau bisa tidak menyusahkan banyak pihak. Kalau bisa lewat uang online atau atm. Saya lebih menekankan pembayaran online.
+	Sebagai manager saya butuh fitur untuk pemantauan perkembangan aplikasi. Fiturnya antara lain fitur yang dapat melihat banyaknya penulis di aplikasi saya. Fitur untuk mengetahui berapa banyak tulisan mereka dibaca dan yang memfavoritkan mereka. Selain itu yang terpenting itu fitur untuk mengetahui berapa banyak user premium dan berapa banyak user yang mengunjungi aplikasi saya.
+
+User (Novan Ardhana - 05111740000086)
+	Sebagai pengguna saya mengharapkan aplikasi ini dapat meningkatkan kualitas menulis cerita. Pengaturan profile itu dibutuhkan. Pengaturan gambar profile, biodata, dan user juga bisa menuliskan social media penulis di profilenya seperti instagram, dll. 
+	Untuk membuat cerita agar memudahkan penulisan bisa diberikan fitur word formatiing jadi kita bisa menulis cerita dan ceritanya bisa dikasih format sedemikian rupa sehingga lebih memudahkan pembaca untuk membaca tulisan. Untuk mempublish cerita mungkin bisa dibuatkan fitur untuk mempublishnya di media lain. Semisal kita punya twitter maka tulisan kita juga bisa dipublish disitu supaya dapat banyak pembaca. Jadi cerita dapat dipublish lewat social media lain juga selain wattpad.
+	Keuntungan yang saya ingin dapat adalah apresiasi. Kalau kita membuat cerita tapi tidak ada yang baca, maka akan jadi sia-sia. Jadi kalau kita buat cerita dan ternyata cerita kita bagus, dapat mengundang banyak pembaca maka kita bisa diberikan semacam top story, penghargaan, atau semacamnya. 
+	Untuk menunjang kenyamanan pembaca bisa dibuatkan fitur dark mode. Fitur ini digunakan biar pembaca lebih nyaman membaca dimalam hari karena biasanya background cerita itu putih dan terlalu terang . Nah karena itu mungkin bisa dibuat mode gelapnya.
+	Interaksi antar pembuat dan pembaca bisa melalui komentar. Pembaca bisa membuat komentar di cerita pembaca. Lalu pembaca juga bisa membalas komentar yang diberikan kepadanya.
+	Sebagai pembaca yang membuat saya tertarik menggunakan aplikasi ini adalah adanya genre-genre cerita. Sebagai pembaca saya ingin dapat mencari cerita sesuai dengan genre yang saya sukai. Sebagai penulis saya ingin mendapatkan apresiasi untuk cerita yang ditulis. Kalau cerita yang saya tulis mengundang banyak pembaca maka saya ingin mendapatkan penghargaan sehingga lebih merasa terapresiasi.
+	Pembayaran untuk akun premium bisa melalui kredit card. Jadi pembayarannya bisa otomatis terbayar setiap bulannya. Mungkin yang lainnya bisa semacam jenius.
+
+Administrator (Muhammad Rayhan Hakim - 05111740000160)
+	Sebagai administrator saya butuh fitur memblock penulis dan ada fitur request permission jika penulis ingin menggunakan perkataan kasar atau 18++.
+	Fitur pengaturan profil ini diperlukan. Supaya pembaca dapat mengetahui profil penulis dan social media penulis. 
+	Penulis yang menghasilkan bacaan yang bagus atau memiliki banyak pembaca, dia akan mendapatkan bayaran. Kalau sebagai pembaca, bisa mendapatkan bacaan yang bagus secara free. 
+	Untuk menunjang pendapatan profit bisa melalui promosi. Juga bisa melakukan endorsement. Yang pasti ada promosi.
+	Akun premium tidak akan mendapatkan iklan, free ad. Untuk yang tidak premium mereka akan mendapatkan beberapa iklan ketika membaca. Selain itu pembaca premium dapat mengakses semua. 
+	Untuk pembayaran bisa menggunakan kredit card supaya dapat otomatis terbayar per bulannya.
+	Fitur untuk memantau perkembangan aplikasi bisa berupa fitur block penulis dan fitur request permission.

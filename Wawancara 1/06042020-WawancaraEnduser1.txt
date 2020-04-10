@@ -1,0 +1,23 @@
+Notulensi Wawancara
+
+Pewawancara : Lutfiyanti
+Narasuber : Paramastri Ardiningrum (End-user)
+
+
+1.	Dengan adanya aplikasi berbagi cerita (wattpad) apakah manfaat yang anda harapkan?
+	Saya ingin bisa mencari bacaan entah itu sesuai judul yang cari, atau kategori, atau rating cerita dll. Saya ingin bisa menyimpan bacaan yang saya pilih di perputakaan gitu. Kemudian saya ingin bisa membaca cerita secara gratis. Saya juga ingin menyalurkan hobi menulis, dan saya ingin aplikasi ini bisa membantu saya menulis secara praktis. Saya ingin mendapat feebback atas ceriyta yang saya tulis dari pembaca pembaca, saya ingin bisa berkomunikasi sama sesama penulis atau pembaca, trus saya ingin ada komunitas gitu untuk berbagi.
+2.	Menurut anda apakah pengaturan profil user dibutuhkan? Jika iya apa saja?
+	User profile pengturannya sangat dibutuhkan apalagi untuk penulis. Karena biasanya penulis itu ungin menggunakan nama pena dan tidak memperlihatkan sisi aslinya dia. trus nanti bisa ganti profile seperti foto atau background"nya
+3.	Apabila anda ingin membuat dan mempublish cerita fitur apa saja yang anda butuhkan?
+	Saya ingin disediakan halaman yang disediakan kolom untuk menulis yang tidak membingungkan tampilan antar mukanya. Kemudain tulisan disertai tools tools mirip di word bisa di bold di italic dll. Sama bisa menyimpan di draft tulisan yang blm saya publish yang nanti bisa diedit lagi atau dihapus. kemudian yang di publish ini saya ingin ada fitur bagikan link. terus saya ingin ada sistem untuk memantau seperti ranking gitu. 
+4.	Keuntungan apa yang ingin anda dapatkan (uang, apresiasi, dll) sebagai user pembuat cerita?
+	Saya kalau untuk dana atau uang saya belum kepikiran tapi apresiasi saja udah cukup. karena sebagai user pembaca untuk membayar itu kaya sama aja membeli buku. Sayapengennya gratisa jadi manfaatnya lebih ada. jadi untuk apresiasi saya rasa cukup.
+5.	Apabila anda ingin membaca cerita fitur apa saja yang anda butuhkan untuk menunjang kenyamanan membaca?
+	Mencari bacaan dengan mudah, kemudian bisa saya simpan. Kemudian di perpustakaan saya bisa menyusun penataan buku. Bisa secara alfabet, atau yg terakhir dibaca, atau yang terakhir disimpan. Kemudian saya ngin bisa menyesuaikan ukuran font trus ada mode baca, kemudian fitur untuk menyimpan halaman terakhir yang saya baca.
+6.	Untuk menunjang interaksi antara user pembuat dan pembaca cerita fitur apa saja yang dibutuhkan?
+	Diaharapkan pembaca bisa memberi feedback seperti like, comment, trus menulis pesan di beranda penulis yang bisa dilihat oleh user yang lain, trus penulis bisa membalasnya. kemudian ada pesan private untuk menyampaikan sesuatu secara private.
+7.	Apa yang membuat anda tertarik menggunakan aplikasi ini? Min 1
+	Sudah terjawab.
+8.	Apabila terdapat akun premium, metode pembayaran apa saja yang anda inginkan?
+	Bisa transfer bank, uang elektronik.
+

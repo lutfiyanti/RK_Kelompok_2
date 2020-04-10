@@ -1,0 +1,23 @@
+Notulensi wawancara untuk end user 
+
+Pewawancara : Lutfiyanti
+Narasumber : Bryan Khufa(Manager)
+
+
+1.	Apa manfaat yang anda harapkan dari aplikasi ini?
+	Jawab : Menggunakan aplikasi sebagai wadah untuk dua hobi sekaligus, yang hobi membaca dan hobi menulis. Saya ingin 	menjadi fasilitator agas orang" ini dapat menyalurkan hobinya masing".
+2.	Fitur apa yang ingin anda berikan untuk menarik minat pengguna?
+	Jawab : Dari yang paling awal kita kan ingin menyediakan bacaan gratis jadi semua orang bisa baca disini. Kemudain 	cerita terstruktur sehingga dapat dilakukan pencarian dengan mudah jadi user yang hobi baca cerita fiksi/rommance 	bisa kesitu. Ada juga rekomendasi bacaan sehingga user yang sudah baca sebuah cerita sistem diharapkan dapat memberi 	rekomendasi pada bacaan yg berkaitan shg membuat user lebih lama menggunakan aplikasi tsb.
+3.	Sebagai manager, anda ingin mendapatkan profit dari mana saja? Sebutkan!
+	Untuk awalnya saya ingin membuat semua bacaan gratis. Tapi seiring berjalnnya waktu bisa ada user yang dibuat 	premium. Jadi user ini bisa menjual ceritanya dan user yg baca bisa membayar koin untuk membayar. Kemudian bisa juga 	ada user premium. Nanti yang premium ini dikasi kelenihan kusus.
+4.	Bagaimana cara anda untuk menarik dan mempertahankan minat user pembuat cerita? 
+	Jadi biasanya user yang buat cerita hobi menulis. Akan lebih baik kita bisa memfasilitasi user pembuat cerita ini 	untuk menerbitkan buku, atau dibuat film. 
+5.	Sistem seperti apa yang anda inginkan untuk memberikan insentif kepada user pembuat cerita?  
+	Pakai sistem koin yang tadi sudah dijelaskan.
+6.	Fitur apa saja yang ingin ditawarkan dalam fitur premium?
+	Bisa dapat tema, trus no ads, juga bisa ditawarkan bonus coin setiap topup coin
+7.	Metode pembayaran apa yang anda inginkan?
+	Yang pasti e-money. Kalo di Indonesia bisa transfer OPO Gopay atau juga transfer bank. Untuk yang diluar bisa pakai 	Paypal.
+8.	Sebagai manager, apakah anda butuh fitur untuk memantau perkembangan aplikasi? Fitur apa saja yang dibutuhkan?
+	Kita pengen memberi fasilitas pada penulis dan pembaca. nah dengan adanya kita sebagai pemantau harus ada kita 	sebagai penengah. Bisa melihat penulis yang berkembang pesat, kemudian merespon komlain dari user, dan mem band user 	yang berbuat curang.
+

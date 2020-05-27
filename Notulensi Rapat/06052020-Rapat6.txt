@@ -1,0 +1,16 @@
+Prioritisasi dibagi kedalam 5 penilaian dari rendah ke tinggi :
+1. Sangat Tidak Penting
+2. Tidak penting
+3. Biasa Saja
+4. Penting
+5. Sangat Penting
+
+Use case:
+1. Pengguna dapat mendaftarkan akun baru
+2. Pengguna yang telah terdaftar dapat melihat, mengubah, atau menghapus data akun pengguna
+3. Pengguna dapat menulis cerita
+4. Pengguna dapat membaca cerita
+5. Pengguna dapat berinteraksi sebagai pembaca atau penulis
+6. Pengguna dapat beralih akun premium
+7. Pengguna dapat menggunakan fitur premium
+8. Admin dapat melakukan pemantauan perkembangan sistem

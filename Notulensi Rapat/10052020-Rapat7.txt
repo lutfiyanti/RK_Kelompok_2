@@ -1,0 +1,32 @@
+1. Metode yang digunakan menggunakan metode pendekatan use case karena sesuai dengan Sistem Informasi Membaca dan Menulis.
+2. Use case yang digunakan yaitu sama dengan list kebutuhan fungsional dari sistem informasi ini.
+
+List Kebutuhan Fungsional 
+F 1.1 Sistem memungkinkan penguna mendaftarkan akun baru dengan memasukkan beberapa data pengguna.
+F 1.2 Sistem dapat memungkinkan pengguna melakukan login pada sistem
+F 1.3 Sistem dapat memungkinkan pengguna melakukan logout pada sistem
+F 2.1 Sistem memungkinkan pengguna yang telah mempunyai akun dapat mengedit data akun.
+F 2.2 Sistem memungkinkan pengguna yang telah mempunyai akun dapat menghapus akunnya.
+F 3.1 Sistem memungkinkan pengguna untuk menulis cerita melalui sistem.
+F 3.2 Sistem memungkinkan pengguna untuk menghapus cerita yang dibuat.
+F 3.3 Sistem dapat menampilkan cerita yang telah dibuat oleh pengguna.
+F 3.4 Sistem memungkinkan pengguna mengedit tulisannya dalam word formating.
+F 3.4 Sistem memungkinkan pengguna untuk memasukkan kategori cerita.
+F 3.6 Sistem memungkinkan pengguna untuk mempublish cerita.
+F 4.1 Sistem memungkinkan pengguna untuk membaca cerita melalui sistem.
+F 4.2 Sistem memungkinkan pengguna memilih kategori cerita.
+F 4.3 Sistem memungkinkan pengguna untuk memilih cerita berdasarkan penulis yang diinginkan.
+F 4.4 Sistem memungkinkan pengguna untuk memasukan cerita yang dibaca ke perpustakaan.
+F 4.5 Sistem dapat menampilkan buku yang disimpan pengguna di perpustakaan.
+F 5.1 Sistem memungkinkan pengguna (pembaca) memberikan komentar di suatu cerita.
+F 5.2 Sistem memungkinkan pengguna (penulis) memberikan balasan terhadap komentar yang telah diberikan oleh penulis di ceritanya.
+F 5.3 Sistem memungkinkan pengguna untuk dapat mengupload suatu pesan di timeline.
+F 6.1 Sistem memungkinkan pengguna untuk mendaftar menjadi akun premium
+F 6.2 Sistem memungkinkan pengguna untuk melakukan pembayaran 
+F 7.3 Sistem memungkinkan pengguna terbebas dari iklan yang ada
+F 7.4 Sistem memungkinkan pengguna untuk menyimpan bacaan secara offline
+F 8.1 Sistem memungkinkan pengguna untuk melihat log history pengguna pembaca atau penulis.
+F 8.2 Sistem memungkinkan pengguna untuk melihat berapa banyak akun yang terdaftar hari itu.
+F 8.3 Sistem memungkinkan pengguna untuk melihat berapa banyak akun yang log in hari itu.
+F 8.4 Sistem memungkinkan pengguna untuk melihat berapa banyak penulis yang menulis hari itu.
+F 8.5 Sistem memungkinkan pengguna untuk membaca berapa banyak penulis yang bukunya dibaca oleh pembaca hari itu.
